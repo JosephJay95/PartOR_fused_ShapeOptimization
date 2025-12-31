@@ -8,3 +8,5 @@ Download the GPtoolbox [https://uk.mathworks.com/matlabcentral/fileexchange/4969
 
 Alternating_pipeline.m - This is the full alternating part orientation and geometry optimisation
 Geometry_only_optimisation_pipeline - This is shape-only optimisation
+
+![PPT-shapeoptimization (1)](https://github.com/user-attachments/assets/94f2df55-ae58-468b-af57-199b3faff23a)
