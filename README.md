@@ -1,6 +1,8 @@
 # PartOR_fused_ShapeOptimization
 
 This repository contains the source code for the paper titled 'Part orientation fused shape optimization for minimisation of print time and material waste in extrusion-based 3D printing', Computer-Aided Design Volume Volume 192, March 2026, 104029
+
+https://doi.org/10.1016/j.cad.2025.104029
 **** PLEASE CITE THE ABOVE PAPER IF YOU'RE USING THE FULL OR PART OF CODE PROVIDED IN THIS REPO***
 
 Instructions:
