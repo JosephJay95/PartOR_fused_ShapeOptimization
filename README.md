@@ -1,6 +1,7 @@
 # PartOR_fused_ShapeOptimization
 
 This repository contains the source code for the paper titled 'Part orientation fused shape optimization for minimisation of print time and material waste in extrusion-based 3D printing', Computer-Aided Design Volume Volume 192, March 2026, 104029
+**** PLEASE CITE THE ABOVE PAPER IF YOU'RE USING THE FULL OR PART OF CODE PROVIDED IN THIS REPO***
 
 Instructions:
 
@@ -10,3 +11,4 @@ Alternating_pipeline.m - This is the full alternating part orientation and geome
 Geometry_only_optimisation_pipeline - This is shape-only optimisation
 
 ![PPT-shapeoptimization (1)](https://github.com/user-attachments/assets/94f2df55-ae58-468b-af57-199b3faff23a)
+
